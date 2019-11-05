@@ -1,5 +1,5 @@
 #Counter....
-#!/bin/bash
+#!/bin/bash/ directory
 
 for (( counter=10; counter>0; counter-- ))
 do
