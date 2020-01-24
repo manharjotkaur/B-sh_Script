@@ -8,7 +8,6 @@ then
      echo "Search string not specified"
      exit
 fi
-
 #Create the log file 
 sstrng=$1 #searching a string
 cnt=0 #counter
