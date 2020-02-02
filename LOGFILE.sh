@@ -9,7 +9,7 @@ if [ $numargs -lt 1 ]
 then
 
      echo #new line separator
-     echo "Search string not specified..."
+     echo "Search string not specified.."
      exit
 fi
 #Create the log file 
