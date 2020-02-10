@@ -9,5 +9,5 @@ if [[ -f $filename ]] ; then
     grep "$word" "$filename"
  else
 
-  echo "The file $filename does not exist..."
+  echo "The file $filename does not exist.."
 fi
