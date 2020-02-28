@@ -5,6 +5,7 @@ read n;
 
 if [ $n -lt 10];
 then
+
 echo "It is a one digit number"
 else
 
