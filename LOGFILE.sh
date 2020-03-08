@@ -12,8 +12,6 @@ fi
 sstrng=$1 #searching a string
 cnt=0 #counter
 LMT=10
-
-
 while [ "$cnt" -lt "$LMT" ]
 do
 datestr=`date +%s` #generate date string for file
