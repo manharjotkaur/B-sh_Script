@@ -4,7 +4,6 @@
 
 numargs=$#
 if [ $numargs -lt 1 ]
-
 then
      echo #new line separator
      echo "Search string not specified.."
