@@ -22,6 +22,5 @@ grep -m `expr $cnt + 1` $sstrng words.txt | tail -1 >> log_$datestr.txt
 sleep 10 #Rest for 10 seconds
 cnt=`expr $cnt + 1`
 done #while
-
 echo
 exit 0
