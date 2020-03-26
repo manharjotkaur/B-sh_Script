@@ -1,5 +1,6 @@
  #!/bin/bash
 
+
 echo "Enter userna
  me please..
 read username 
