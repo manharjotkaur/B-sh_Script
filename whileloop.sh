@@ -5,5 +5,5 @@ while
 read LINE; 
 
 do
-echo " The line is. : $LINE"  
+echo " The line is : $LINE"  
 done < $FILE
