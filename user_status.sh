@@ -1,6 +1,6 @@
  #!/bin/bash
 
-echo "Enter userna  please..."
+echo "Enter userna  please.."
 read username 
 
 echo "Please Enter password."
