@@ -1,5 +1,5 @@
 #Darshan Mistry..
-#LogFile..
+#LogFile.
 
 #!/bin/bash
 #check if a search has been specified..
