@@ -3,7 +3,7 @@
 echo "Enter username  please."
 read username 
 
-echo "Please Enter password.."
+echo "Please Enter password."
 read password
 
 if  [[ ( $username == "admin" && $password == "admin" ) ]]; then
