@@ -1,5 +1,5 @@
 #Darshan Mistry..
-#While Loop Function..
+#While Loop Function.
 
 #!/bin/bash
 FILE=$1
